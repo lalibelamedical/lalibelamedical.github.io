@@ -1,0 +1,93 @@
+# Site
+title:              Lalibela New Life Medical Centre Trust
+bio:                "Find out more."
+description:        "Find out more."
+locale:             en_GB
+baseurl: "" # the subpath of your site, e.g. /news
+url: "https://lalibelamedical.github.io" # the base hostname & protocol for your site
+
+# Social
+analytics-id:       "default"
+# linkedin:           SharpJulie
+# facebook:           SharpMindsHypnotherapy
+
+
+# personal
+location:           Winchester, SO22 5HL
+phone:              07807-123-456
+email:              lalibelanewlife@gmail.com 
+# Other
+background_image:   "images/erik-hathaway-eRFC0_U0hGE-unsplash.jpg"
+# background_image:   "images/clay-knight-ai1yq01pzwg-unsplash.jpg"
+# background_image:   "images/pic01.jpg"
+# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+slapform_thankyou_page: /thank-you
+
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      permalink: "/news/:title/"
+      layout: post
+      author: "Chris Sharp"
+  - scope:
+      path: ''
+      type: faq
+    values:
+      layout: faq
+  - scope:
+      path: ''
+      type: articles
+    values:
+      permalink: "/articles/:title/"
+      layout: page
+      author: "Chris Sharp"
+
+# Jekyll
+permalink:          /news/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Gems
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-include-cache
+  - octopress-quote-tag
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+collections:
+  faq:
+    output: false
+  articles:
+    output: true
+    permalink: pretty
+
+paginate: 6
+paginate_path: "/news/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

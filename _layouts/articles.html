@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+	</head>
+	<body class="is-loading">
+	<!-- Wrapper -->
+		<div id="wrapper" class="fade-in">
+			<!-- Header -->
+			<header id="header">
+				<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+			</header>
+			<!-- Nav -->
+			{% include nav.html %}
+			<!-- Main -->
+			<div id="main">
+				<!-- Programmes -->
+				<section class="posts">
+					{% for article in site.articles %}
+					<article>
+						<header>
+							<h3><a href="{{ article.url | absolute_url }}">{{ article.title }}</a></h3>
+						</header>
+						<a href="{{ article.url | absolute_url }}" class="image fit"><img src="{{ article.image | absolute_url }}" alt="" /></a>
+						<p>{{ article.excerpt }}</p>
+						<ul class="actions">
+							<li><a href="{{ article.url | absolute_url }}" class="button">Read More</a></li>
+						</ul>
+					</article>
+					{% endfor %}
+				</section>
+			</div>
+		<!-- Footer -->
+        {% include foot.html %}
+		</div>
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+		{% include tracking.html %}
+	</body>
+</html>

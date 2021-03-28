@@ -1,0 +1,17 @@
+<nav id="nav">
+  <ul class="links">
+    <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/#header" | absolute_url }}">Home</a></li>
+    <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+    <li class="{% if page.url contains '/purpose/' %} active {% endif %}"><a href="{{ "/purpose/" | absolute_url }}">Purpose</a></li>
+    <li class="{% if page.url contains '/goals/' %} active {% endif %}"><a href="{{ "/goals/" | absolute_url }}">Goals</a></li>
+    <li class="{% if page.url contains '/how-we-work/' %} active {% endif %}"><a href="{{ "/how-we-work/" | absolute_url }}">How We Work</a></li>
+    <li class="{% if page.url contains '/donate/' %} active {% endif %}"><a href="{{ "/donate/" | absolute_url }}">Donate</a></li>
+    <li class="{% if page.url contains '/news/' %} active {% endif %}"><a href="{{ "/news/" | absolute_url }}">News</a></li>
+  </ul>
+  <ul class="links">
+    <form action="{{ "/search/" | absolute_url }}" method="get">
+      <label for="search-box">Search</label>
+      <input type="text" id="search-box" name="query" placeholder="Search" size="6">
+    </form>
+  </ul>
+</nav>

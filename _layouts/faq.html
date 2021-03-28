@@ -1,0 +1,11 @@
+<div class="panel panel-border">
+    <div class="panel-heading">
+        <span class="h4"><strong>{{ page.title }}</strong></span>
+        <button type="submit" class="button xsmall pull-right is-closed" data-toggle="collapse" data-target="faq-{{ page.target }}">
+            <i class="fa fa-search-minus icon-close"></i><i class="fa fa-search-plus icon-open"></i>
+        </button>
+    </div>
+    <div class="panel-body is-collapsed" data-group="faq-{{ page.target }}">
+        {{ content }}
+    </div>
+</div>
