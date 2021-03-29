@@ -2,7 +2,7 @@
 layout: page
 title: Rural Ethiopia
 description: Background information on rural Ethiopia.
-image: "images/woman-work.jpg"
+image: "images/stephane-hermellin-nAsyz54MJkw-unsplash.jpg"
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
