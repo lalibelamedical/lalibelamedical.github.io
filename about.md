@@ -2,6 +2,7 @@
 layout: page
 title: About The Lalibela New Life Medical Centre Trust
 description: Key information on the trust organisation.
+image: 'images/medical-centre.jpg'
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -9,12 +10,14 @@ sitemap:
 ---
 ## About the Trust
 
+The Trust was created to *build*, *support* and *grow* the [New Life Medical Centre]({{ "medical-centre" | absolute_url }}), in [Lalibela, Ethiopia]({{ "ethiopia" || absolute_url }}).
+
 The Trust was formally registered with the UK Charity Commission on 20th January 2021 and is assigned the registration number **1193161**.
 
 <section>
-<ul class="actions">
-    <li><a href="{{ "/background/" | absolute_url }}" class="button">Background to the Trust</a></li>
-</ul>
+    <ul class="actions">
+        <li><a href="{{ "/background/" | absolute_url }}" class="button">Background to the Trust</a></li>
+    </ul>
 </section>
 
 ### Our Values

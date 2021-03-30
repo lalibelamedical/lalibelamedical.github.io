@@ -18,8 +18,7 @@ phone:              07807-123-456
 email:              lalibelanewlife@gmail.com 
 # Other
 background_image:   "images/erik-hathaway-eRFC0_U0hGE-unsplash.jpg"
-# background_image:   "images/clay-knight-ai1yq01pzwg-unsplash.jpg"
-# background_image:   "images/pic01.jpg"
+
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 

@@ -9,4 +9,15 @@ sitemap:
 ---
 ## Donate
 
-Something about the ways to donate.
+Our initial fundraising was established using the **GoFundMe** platform, and we would be very grateful to receive any donations via that.
+
+<section>
+<ul class="actions">
+    <li><a href="https://www.gofundme.com/f/lalibela-medical-centre" class="button">Donate Now</a></li>
+</ul>
+</section>
+
+However, for gifts of a more significant size, we would appreciate it if you could donate directly, to avoid overheads.
+
+Please [contact us]({{'#footer'|relative_url}}) directly for bank transfer details.
+
