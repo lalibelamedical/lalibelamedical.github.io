@@ -20,4 +20,3 @@ Our initial fundraising was established using the **GoFundMe** platform, and we 
 However, for gifts of a more significant size, we would appreciate it if you could donate directly, to avoid overheads.
 
 Please [contact us]({{'#footer'|relative_url}}) directly for bank transfer details.
-
