@@ -10,13 +10,13 @@ sitemap:
 ---
 ## About the Trust
 
-The Trust was created to *build*, *support* and *grow* the [New Life Medical Centre]({{ "medical-centre" | absolute_url }}), in [Lalibela, Ethiopia]({{ "ethiopia" || absolute_url }}).
+The Trust was created to *build*, *support* and *grow* the [New Life Medical Centre]({{ "medical-centre" | absolute_url }}), in [Lalibela, Ethiopia]({{ "ethiopia" | absolute_url }}).
 
 The Trust was formally registered with the UK Charity Commission on 20th January 2021 and is assigned the registration number **1193161**.
 
 <section>
     <ul class="actions">
-        <li><a href="{{ "/background/" | absolute_url }}" class="button">Background to the Trust</a></li>
+        <li><a href="{{ '/background/' | absolute_url }}" class="button">Background to the Trust</a></li>
     </ul>
 </section>
 
