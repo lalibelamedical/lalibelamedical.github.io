@@ -4,7 +4,7 @@ bio:                "Find out more."
 description:        "Find out more."
 locale:             en_GB
 baseurl: "" # the subpath of your site, e.g. /news
-url: "https://lalibelamedical.github.io" # the base hostname & protocol for your site
+url: "https://lalibelamedical.org" # the base hostname & protocol for your site
 
 # Social
 analytics-id:       "default"
