@@ -27,7 +27,7 @@
       function initMap() {
         var medical_centre = {lat: 12.027444259320353, lng: 39.02367298842138 };
         var map = new google.maps.Map(
-            document.getElementById('map'), {zoom: 16, center: medical_centre});
+            document.getElementById('map'), {zoom: 16, center: medical_centre, mapTypeId: 'satellite'});
         var marker = new google.maps.Marker({position: medical_centre, map: map});
       }
       </script>
