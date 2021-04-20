@@ -9,14 +9,20 @@ sitemap:
 ---
 ## Donate
 
-Our initial fundraising was established using the **GoFundMe** platform, and we would be very grateful to receive any donations via that.
+<div class="row">
+    <div class="10u 12u$(small)">
+    Thank you so much for considering a donation.
+    We are registered with the <b><i>PayPal Giving Fund</i></b>,
+    which means that  <b><i>100%</i></b> of your donation will go to us!
+    </div>
+    <div class="2u 12u$(small)">
+        <ul class="actions">
+            <li><a href="https://www.paypal.com/fundraiser/charity/4285009" class="button special fit">Donate Now</a></li>
+        </ul>
+    </div>
+</div>
 
-<section>
-<ul class="actions">
-    <li><a href="https://www.gofundme.com/f/lalibela-medical-centre" class="button">Donate Now</a></li>
-</ul>
-</section>
+### Make your donation go further
 
-However, for gifts of a more significant size, we would appreciate it if you could donate directly, to avoid overheads.
-
-Please [contact us]({{'#footer'|relative_url}}) directly for bank transfer details.
+After you donate, you'll get a donation receipt by email. Please remember to choose to add ***Gift Aid***. 
+We will then receive an 25p for every pound that you give.
