@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "206", group: :jekyll_plugins
 # gem "jekyll", "~> 3.2.1"
 gem 'octopress-quote-tag'
 gem "jekyll-sitemap"
