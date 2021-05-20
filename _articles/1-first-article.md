@@ -2,7 +2,7 @@
 layout: post
 title:  Progress Update
 excerpt: Keeping you up to date with the latest developments 
-image: "images/logos/LOGO2.png"
+image: "images/logos/LOGO.png"
 ---
 <b>7th April 2021</b>
 <H4>Clinic compound needs a gate</H4>
