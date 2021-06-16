@@ -24,5 +24,7 @@ sitemap:
 
 ### Make your donation go further
 
-After you donate, you'll get a donation receipt by email. Please remember to choose to add ***Gift Aid***. 
+After you donate, you'll get a donation receipt by email. Please remember to choose to add ***Gift Aid***.
 We will then receive an 25p for every pound that you give.
+
+![PayPal GiftAid]({{ "../images/paypal-giving.png" | absolute_url }})
