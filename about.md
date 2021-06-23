@@ -18,6 +18,10 @@ The Trust was created to *build*, *support* and *grow* the [New Life Medical Cen
 
 It was formally registered with the UK Charity Commission on 20th January 2021 and is assigned the registration number **1193161**.
 
+### Supporting Us
+
+See more information [here]({{ 'support' | absolute_url }}) on how you can support us, whether as an individual, an organisation, or a charitable fund.
+
 ### How it all began...
 
 Three things conspired to breathe new life into this unexpected project.
