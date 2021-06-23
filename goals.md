@@ -37,7 +37,7 @@ for nursing and medical students in the region. We would love to be in a positio
 <div class="col text-center">
 <section>
 <ul class="actions">
-    <li><a href="{{ '/progress/' | absolute_url }}" class="button">Progress So Far</a></li>
+    <li><a href="{{ '/articles/1-progress/' | absolute_url }}" class="button">Progress So Far</a></li>
 </ul>
 </section>
 </div>
