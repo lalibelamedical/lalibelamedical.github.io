@@ -52,7 +52,6 @@ Adisu’s driving ambition is to promote health education, in order to reduce th
         <div class="8u">
             <h3>Dr. Trevor Parsons</h3>
             Trevor, a Lancashire man, grew up in a family of four children during the Blitz. His father was a successful dental surgeon, his mother devoted to the service of others, not least to two of her children whom she nursed through ill-health until their untimely deaths. Whilst Trevor followed in his father’s footsteps, establishing himself as a successful dentist, his real passion has been for foreign languages, countries and people. He has travelled to many parts of the world, always preferring to avoid the bright lights in favour of exploring the less visited and remoter parts of foreign communities, seeing the 'real' people. Following a chance meeting in 2012 with one such person, Adisu Mekonen Getu, he has, for the past 9 years been supporting Adisu through his nursing degree in Addis Ababa and, more recently, building the Lalibela New Life Medical Centre. Trevor has lived the past fifty years in Malvern, Worcestershire, and currently sits as a Trustee on the Malvern Hills Conservators Committee. 
-
         </div>
     </div>
     <hr>
@@ -82,17 +81,19 @@ Adisu’s driving ambition is to promote health education, in order to reduce th
         </div>
         <div class="8u">
             <h3>Ciru Mwaniki</h3>
-            Ciru became Trustee of the Lalibela New Life Medical Centre Trust in January 2021, and lives and works in Nairobi, Kenya. Alongside her role as a Business Consultant, Ciru holds a number of other positions including as Diplomacy Officer for the Honorary Consulate of the Republic of Lithuania and as an Immigration Officer.  
-        </div>
-    </div>
-    <hr>
-    <div class="row">
-        <div class="4u">
-            <img src="/images/David-Todman-Photo.jpeg" class="image fit" alt="David Todman">
-        </div>
-        <div class="8u">
-            <h3>David Todman</h3>
-            David became Trustee of the Lalibela New Life Medical Centre Trust in January 2021. He has a background in Engineering, Food and Beverage and pharmaceutical sectors with a focus on overseas market development and channel management. He has over 25 Years Senior Sales Management and Marketing experience in both UK and International roles working with ‘blue chip’ organisations that include; Alfa Laval, ITT and Invensys APV. Beginning in a technical sales role and then moving in to export sales roles as well as periods of expatriate senior sales management roles in Asia and Middle East. 
+            Ciru became a Trustee of the Lalibela New Life Medical Centre Trust in January 2021, lives
+            and works in Kiambu, Kenya.
+            <a href="https://app.meishi.me/cirumwaniki001">Ciru Mwaniki</a>, FOUNDER of Advotiq has had over 15 years experience in office
+            administration and operational management working for various companies across a wide
+            range of industries. One of Ciru’s favourite things is to travel and experience different
+            cultures and foods and from these experiences, one of the solutions she provides her
+            customers is a range of relocation services that include job search, visa application, home
+            search and departure assistance. With the current global recent events of 2020, ‘business is
+            no longer as usual’ and she has collaborated with international partners to provide
+            businesses to be visible to the right people, through an online business directory
+            for extensive marketing exposure.
+            Ciru is also a Diplomatic Officer for the Honorary Consulate of the Republic of Lithuania –
+            Kenya. She is the youngest in a family of 5 and lives with her 2 cats.
         </div>
     </div>
 </div>
