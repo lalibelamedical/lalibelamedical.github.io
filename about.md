@@ -10,7 +10,7 @@ sitemap:
 ---
 ## About the Trust
 
-The Trust was created to *build*, *support* and *grow* the [New Life Medical Centre]({{ "medical-centre" | absolute_url }}), in [Lalibela, Ethiopia]({{ "ethiopia" | absolute_url }}). Through the raising of funds to support the following:
+The Trust was created to *build*, *support* and *grow* the [New Life Medical Centre]({{ "medical-centre" | absolute_url }}), in [Lalibela, Ethiopia]({{ "ethiopia" | absolute_url }}), through the raising of funds to support the following:
 
 - **Establishing** the Medical Centre in Lalibela.
 - **Supporting** it in becoming a self-sufficient operation.
@@ -51,7 +51,7 @@ Adisu’s driving ambition is to promote health education, in order to reduce th
         </div>
         <div class="8u">
             <h3>Dr. Trevor Parsons</h3>
-            Trevor, a Lancashire man, grew up in a family of four children during the Blitz. His father was a successful dental surgeon, his mother devoted to the service of others, not least to two of her children whom she nursed through ill-health until their untimely deaths. Whilst Trevor followed in his father’s footsteps, establishing himself as a successful dentist, his real passion has been for foreign languages, countries and people. He has travelled to many parts of the world, always preferring to avoid the bright lights in favour of exploring the less visited and remoter parts of foreign communities, seeing the 'real' people. Following a chance meeting in 2012 with one such person, Adisu Mekonen Getu, he has, for the past 9 years been supporting Adisu through his nursing degree in Addis Ababa and, more recently, building the Lalibela New Life Medical Centre. Trevor has lived the past fifty years in Malvern, Worcestershire, and currently sits as a Trustee on the Malvern Hills Conservators Committee. 
+            Trevor, a Lancashire man, grew up in a family of four children during the Blitz. His father was a successful dental surgeon, his mother devoted to the service of others, not least to two of her children whom she nursed through ill-health until their untimely deaths. Whilst Trevor followed in his father’s footsteps, establishing himself as a successful dentist, his real passion has been for foreign languages, countries and people. He has travelled to many parts of the world, always preferring to avoid the bright lights in favour of exploring the less visited and remoter parts of foreign communities, seeing the 'real' people. Following a chance meeting in 2012 with one such person, Adisu Mekonen Getu, he has for the past 13 years been supporting Adisu through his nursing degree in Addis Ababa and subsequently building the Lalibela New Life Medical Centre. Trevor has lived for more than fifty years in Malvern, Worcestershire, and was a Trustee on the Malvern Hills Conservators Committee. 
         </div>
     </div>
     <hr>
@@ -61,7 +61,7 @@ Adisu’s driving ambition is to promote health education, in order to reduce th
         </div>
         <div class="8u">
             <h3>Chris Sharp</h3>
-            Chris became Trustee of the Lalibela New Life Medical Centre Trust in February 2020, assuming the role of Chair. Impressed and humbled by Trevor’s faith in others and willingness to sponsor a project so directly, he was motivated to join in and help to complete this important work. Prior to this role he was Churchwarden at his local parish church in Winchester for nearly 10 years. It was through this role that he came to appreciate the real value of service to others, and the Parable of the Talents: it is important for us to give what we have been blessed with - not only our money, but our time and skills, to charitable causes. As a day job, Chris has worked as a senior technical leader for a major international computer corporation for over 30 years, focusing his attention in the latter part of his career to helping others to develop their skills. Chris is Trevor’s son-in-law, and is married to Julie.
+            Chris became Trustee of the Lalibela New Life Medical Centre Trust in February 2020, assuming the role of Chair. Impressed and humbled by Trevor’s faith in others and willingness to sponsor a project so directly, he was motivated to join in and help to complete this important work. Prior to this role he was Churchwarden at his local parish church in Winchester for nearly 10 years. It was through this role that he came to appreciate the real value of service to others, and the Parable of the Talents: it is important for us to give what we have been blessed with - not only our money, but our time and skills, to charitable causes. As a day job, Chris has worked as a senior technical leader for a major international computer corporation for over 35 years, focusing his attention in the latter part of his career to helping others to develop their skills. Chris is Trevor’s son-in-law, and is married to Julie.
         </div>
     </div>
     <hr>
