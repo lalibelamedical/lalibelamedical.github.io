@@ -9,18 +9,7 @@ sitemap:
 ---
 ## Donate
 
-<div class="row">
-    <div class="10u 12u$(small)">
-    Thank you so much for considering a donation.
-    We are registered with the <b><i>PayPal Giving Fund</i></b>,
-    which means that  <b><i>100%</i></b> of your donation will go to us!
-    </div>
-    <div class="2u 12u$(small)">
-        <ul class="actions">
-            <li><a href="https://www.paypal.com/fundraiser/charity/4285009" class="button special fit">Donate Now</a></li>
-        </ul>
-    </div>
-</div>
+We are currently suspending online donations for the time being.
 
 ### Make your donation go further
 
